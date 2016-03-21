@@ -1,0 +1,6 @@
+# What is an assignment?
+As indicated earlier, if you sell a covered call, you're accepting an obligation in exchange for the option premium you collect. Your underlying shares of stock might be "called" away from you if the option buyer chooses to exercise. We say "might" here because it's not guaranteed that you'll be asked to honor this obligation. It depends on whether you get assigned. Here's how the assignment process works.
+
+"Assignment" happens via a random lottery system run by the Options Clearing Corporation (OCC). When the OCC receives an exercise notice, it's assigned randomly to a member clearing firm. In turn, your brokerage firm randomly assigns exercise notices to short options positions on their books. So it's possible you'll be assigned through this process.
+
+Of course, it's also possible you'll skip out scot-free. But if the call option you've sold is more than a few cents in-the-money at the expiration date, the chance of escaping assignment is highly unlikely. In addition, even though exercise usually depends upon whether the option is in- or out-of-the-money, an option buyer can choose to exercise his or her option at any time until expiration, for any reason, whether it makes sense or not. As you're probably aware, human beings don't always behave in a rational manner.

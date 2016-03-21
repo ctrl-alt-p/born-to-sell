@@ -1,0 +1,4 @@
+# What are the risks?
+Although covered call writing is generally considered a fairly conservative option strategy, there are risks. Remember, as a covered call writer you're wearing two hats: You're a call seller and you're also a stockholder.
+
+Downside risk as a stockholder. If the value of your underlying shares falls significantly, the loss from holding the stock will likely outweigh the gain from the option premium received. Limited upside as a stockholder. Before selling a covered call, as a stockholder you have unlimited potential upside from owning the stock. When you start writing covered calls, your potential gain from owning the stock is limited to the gain you may realize if the share price reaches the strike price of the option. At some point after this occurs, the shares will likely be "called away" and you will sell the shares for the strike price.

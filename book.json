@@ -1,0 +1,39 @@
+{
+  "gitbook": "2.x.x",
+  "title": "Born to Sell",
+  "description": "React Testing",
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md",
+    "glossary": "GLOSSARY.md"
+  },
+  "styles": {
+    "website": "docs/styles.css"
+  },
+  "plugins": [
+    "edit-link",
+    "prism",
+    "-highlight",
+    "github",
+    "-search",
+    "codeblock-disable-glossary",
+    "collapsible-menu",
+    "anchors",
+    "scripts",
+    "include-codeblock"
+  ],
+  "pluginsConfig": {
+    "edit-link": {
+      "base": "https://github.com/ctrl-alt-p/born-to-sell/tree/master",
+      "label": "Edit This Page"
+    },
+    "github": {
+      "url": "https://github.com/ctrl-alt-p/born-to-sell/"
+    },
+    "scripts": {
+      "files": [
+        "./docs/bundle.js"
+      ]
+    }
+  }
+}
