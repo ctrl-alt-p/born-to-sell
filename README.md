@@ -1,6 +1,6 @@
 # Option Traders Handbook
 
-Written by [Glenn Nagel](https://github.com/gnagel).
+Written by [Glenn Nagel](https://github.com/gnagel) with the help of [investopedia.com](www.investopedia.com), [investors.com](investors.com), and [borntosell.com](borntosell.com).
 
 This is a guide that anyone could use to learn about the practice of trading covered calls. It broadly outlines and discusses the practice of option trading: how to learn it and what tools are used when practicing it.
 
