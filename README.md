@@ -28,3 +28,4 @@ Part three briefly explains and identifies tools of the trade and provides basic
 
 
 `Disclaimer`: Trading stocks or options is not risk-free.  You should do your homework and use caution when investing, this blog is not responsible for any profits or losses encountered while trading.  The advice provided on this blog are provided for self-education and tutorial purposes only.  You are responsible for your own success when trading.  Good luck!
+
